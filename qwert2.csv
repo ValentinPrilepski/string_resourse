@@ -1,0 +1,93 @@
+Ключ,Русский,Английский,Немецкий
+public_offer_link,"Используя приложение, вы принимаете условия пользовательского соглашения","By using this app, you accept the public offer",Mit Nutzung dieser App akzeptieren Sie die Nutzungsbedingungen
+public_offer_underlined_part,пользовательского соглашения,public offer,Nutzungsbedingungen
+public_offer_registration_link,Согласен с условиями пользовательского соглашения,Agree to the terms of public offer,Einverstanden mit Nutzungsbedingungen
+do_enter,Войти,Enter,Eingang
+cancel_upper,ОТМЕНА,CANCEL,ABBRUCH
+device,Устройство,Device,Geraet
+empty_field_error,поле не может быть пустым,This field must be filled out,Das Feld darf nicht leer sein
+file_dialog_emk_files,Файлы,Files,Dateien
+file_dialog_examinations,Исследования,Examinations,Untersuchungen
+doctor_help,Помощь специалиста,Help of doctor,Arzthilfe
+whats_new,Что нового?,What is new?,Was ist neu?
+not_forget,Чтобы не забыть,Don't forget,Vergessen Sie nicht
+not_forget_short,Чтобы не забыть,Don't forget,Erinnerung
+empty_events,Здесь появится информация по добавленным событиям,Here appears information about new events,Hier erscheint Information ueber neue Ereignisse
+empty_requests,Здесь появится информация по обращениям к врачу,Here appears information about requests to doctors,Hier erscheint Information ueber Anfragen an Aerzte
+,,,
+patient_service,Пациент сервис,Patient service,Patient Service
+male_short,Муж,mle,mnl
+female_short,Жен,fml,wbl
+experience_short,Стаж,Experience,Erfahrung
+,,,
+info_card_status_payment,oжидает оплаты,Waiting for payment,Wartend auf Zahlung
+file_dialog_folder,Проводник,File,Datei
+,,,
+message_from_pavel %,это переводить,не надо :),Das Medotrade Unternehmen hat die besten Menschen in der Welt :p Und das freut mich sehr viel das ich dort gearbeitet haben.
+,,,
+Medlike - project,,,
+app_name,Медлайк,,
+main_title,Главная,Main,Haupt
+appointment_title,Запись на прием,,
+call_doctor_title,Вызов врача,,
+_name,__text,__cdata
+app_name,Медлайк,
+settings,Настройки,
+field_is_necessary,поле обязательно для заполнения,
+cancel,Отмена,
+ok,OK,
+request_permission_text,Для выбора фото необходимо разрешить доступ к памяти.,
+registration_required,Требует подтверждения,
+appointment,Запись на прием,
+doctor_call,Вызова врача,
+my_appointments,Мои приемы,
+medical_card,Медицинская карта,
+promotions,Акции,
+menu,Меню,
+delete,Удалить,
+accept_the_agreement,"Используя приложение, вы принимаете условия",<font color=#FF1146>пользовательского соглашения</font>
+accept_the_agreement_endl,"Используя приложение, вы принимаете условия",<br><font color=#FF1146>пользовательского соглашения</font>
+you_accept_the_agreement,"Используя приложение, вы принимаете условия",<br><font color=#FF1146>пользовательского соглашения</font>
+enter_phone_number,Введите номер телефона,
+phone_number_hint,+7 (XXX) XXX XX XX,
+sms_code_hint,XXXXXX,
+enter_sms_code,Введите код из SMS,
+cannot_enter,Не можете войти?,
+user_not_found,Пользователь не найден,
+pin_code,Пин - код,
+create_pin_code,Придумайте пин - код\n для быстрого входа в приложение,
+enter_pin_code,Введите пин - код,
+reenter_pin_code,Повторите пин - код,
+fingerprint_auth,Вход по Fingerprint,
+support,Тех. поддержка,
+fingerprint_description,Авторизация в приложении с помощью отпечатка пальца,
+support_description,Обратная связь,
+about_app,О приложении,
+terms_of_use,Пользовательское соглашение,
+send,отправить,
+theme_asterisk,Тема*,
+message_asterisk,Сообщение*,
+email_asterisk,E-mail*,
+empty_field_error,поле обязательно для заполнения,
+error_wrong_email,неверный формат адреса,
+phone_number,Номер телефона,
+phone,Телефон,
+sms_code,SMS - код,
+password_not_equals,Пароль не совпадает,Поавр
+wrong_sms_code_length,SMS - код должен содержать 6 символов,ГРПыпр
+wrong_phone_number_length,Номер телефона имеет некорректную длину,
+exit_app,Выйти из приложения,
+need_to_block_device,Необходимо установить блокировку экрана,
+need_to_add_fingerprint,Необходимо добавить отпечаток пальца,
+request_fingerprint,Добавить отпечаток пальца?,
+touch_sensor_hint,Прикоснитесь к сенсору устройства,
+not_recognized_error,"Не распознан, попробуйте еще раз", 
+error_incorrect_pin,Неверный пин-код, 
+main_screen,Главный экран, 
+app_version,Версия приложения %s, 
+ooo_medotrade,© ООО Медотрейд., 
+all_rights_reserved,Все права защищены., 
+tech_info_format,Версия приложения %s Устройство %s Версия Android %s, 
+avatar_size_too_large,Превышен максимально допустимый размер файла, 
+choose_photo,Выберите фото, 
+about_clinic,О клинике,Орпызщпрвол
